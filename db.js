@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-var mongoURL = 'mongodb+srv://mernproject:mernproject@cluster0.6nl5owa.mongodb.net/';
+var mongoURL = 'mongodb+srv://dinease:dinease@cluster0.nj61s6l.mongodb.net/';
 mongoose.connect(mongoURL);
 
 var db = mongoose.connection;
