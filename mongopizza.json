@@ -1,0 +1,73 @@
+[
+    {
+      "name": "PEPPER BARBEQUE CHICKEN",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "non-veg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg",
+      "description": "pepper barbeque chicken"
+    },
+    {
+      "name": "PANEER PIZZA",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "veg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg",
+      "description": "PANEER PIZZA"
+    },
+    {
+      "name": "CHICKEN DOMINATOR",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "non-veg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg",
+      "description": "chicken dominator"
+    },
+    {
+      "name": "FARMHOUSE",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "veg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg",
+      "description": "all vegetables"
+    },
+    {
+      "name": "PASTA PIZZA",
+      "varients": ["small", "medium", "large"],
+      "prices": [
+        {
+          "small": 200,
+          "medium": 350,
+          "large": 400
+        }
+      ],
+      "category": "non-veg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/800px-Pizza-3007395.jpg",
+      "description": "PASTA AND CHICKEN"
+    }
+  ]
+  
